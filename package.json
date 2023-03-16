@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Yetity/apint#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
+    "canvas": "^2.11.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "helmet": "^6.0.1",
