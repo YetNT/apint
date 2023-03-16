@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Yetity/apint/issues"
   },
-  "homepage": "https://github.com/Yetity/apint#readme"
+  "homepage": "https://github.com/Yetity/apint#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "helmet": "^6.0.1",
+    "morgan": "^1.10.0"
+  }
 }
